@@ -1,0 +1,20 @@
+# Python
+backend/.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node / Vite
+frontend/node_modules/
+frontend/dist/
+
+# Generated data, model and order decisions (rebuilt automatically on API start)
+data/
+
+# Local env, logs, editors, OS
+.env
+*.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
