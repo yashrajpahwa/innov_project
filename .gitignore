@@ -8,8 +8,9 @@ __pycache__/
 frontend/node_modules/
 frontend/dist/
 
-# Generated data, model and order decisions (rebuilt automatically on API start)
-data/
+# Live approve/hold decisions change with every click; keep them local.
+# (The generated ledgers, trained model and scores in data/ ARE committed.)
+data/orders.csv
 
 # Local env, logs, editors, OS
 .env

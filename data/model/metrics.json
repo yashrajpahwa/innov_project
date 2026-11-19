@@ -1,0 +1,85 @@
+{
+  "chosen_model": "Logistic regression",
+  "why": "Similar accuracy to the random forest, and its coefficients explain each rating.",
+  "train_rows": 210,
+  "test_rows": 90,
+  "default_rate": 0.077,
+  "threshold": 0.5,
+  "models": [
+    {
+      "model": "Logistic regression",
+      "roc_auc": 0.997,
+      "accuracy": 0.967,
+      "confusion_matrix": [
+        [
+          83,
+          0
+        ],
+        [
+          3,
+          4
+        ]
+      ]
+    },
+    {
+      "model": "Random forest",
+      "roc_auc": 1.0,
+      "accuracy": 0.989,
+      "confusion_matrix": [
+        [
+          83,
+          0
+        ],
+        [
+          1,
+          6
+        ]
+      ]
+    }
+  ],
+  "coefficients": {
+    "avg_dbt": -0.077,
+    "latest_dbt": 0.61,
+    "dbt_change_3m": 0.677,
+    "log_total_outstanding": 0.165,
+    "n_suppliers": -0.138,
+    "outstanding_growth_6m": 0.141,
+    "share_overdue": 0.323,
+    "largest_supplier_share": 0.038
+  },
+  "rating_cutoffs": [
+    {
+      "rating": "AAA",
+      "pd_below": 0.0125
+    },
+    {
+      "rating": "AA",
+      "pd_below": 0.02
+    },
+    {
+      "rating": "A",
+      "pd_below": 0.035
+    },
+    {
+      "rating": "BBB",
+      "pd_below": 0.06
+    },
+    {
+      "rating": "BB",
+      "pd_below": 0.12
+    },
+    {
+      "rating": "B",
+      "pd_below": 0.25
+    },
+    {
+      "rating": "C",
+      "pd_below": 0.5
+    },
+    {
+      "rating": "D",
+      "pd_below": 1.001
+    }
+  ],
+  "synthetic": true
+}

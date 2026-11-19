@@ -1,0 +1,301 @@
+gstin,name,city,behaviour,defaulted,default_month
+24TDVFI5142Z1ZG,Shree Ganesh Digital Traders,Ahmedabad,slow,0,0
+27GIJFJ7369I1Z4,Iyer Technologies Enterprises,Pune,reliable,0,0
+19YWMFF8043O1ZR,Chopra Technologies & Co,Kolkata,overleveraged,1,23
+24PCNPS1374Y1ZZ,Mehta Digital Traders,Ahmedabad,slow,0,0
+27EDOCO4759M1Z9,Kulkarni Digital Private Limited,Pune,reliable,0,0
+19MRSFX7743F1Z3,Patel Peripherals Pvt Ltd,Kolkata,defaulted,1,20
+29CYOFT3833D1ZJ,Reddy Computer Services Private Limited,Bengaluru,slow,0,0
+29DHWPQ1227D1ZZ,Vision Computer Services LLP,Bengaluru,slow,0,0
+29NXTPO1105K1ZP,Ghosh Electronics LLP,Bengaluru,reliable,0,0
+24AGGFD8543U1ZC,Om Infosystems Distributors,Ahmedabad,reliable,0,0
+27ZUZCH8494G1ZQ,Agarwal Infosystems Enterprises,Mumbai,reliable,0,0
+07WLEPT0530F1ZS,Pillai Digital Pvt Ltd,Delhi,overleveraged,0,0
+07LSKCJ0917U1ZI,Agarwal Infotech Distributors,Delhi,slow,0,0
+09EDMFR4040X1ZW,Shree Ganesh Technologies Distributors,Lucknow,slow,0,0
+27QZKCK8401F1ZO,Balaji Digital LLP,Pune,reliable,0,0
+29OQPFQ3162G1ZL,Menon IT Solutions Enterprises,Bengaluru,reliable,0,0
+36NTNCU2459I1ZE,Shah Computer Services Traders,Hyderabad,reliable,0,0
+33BTXCL8271S1Z5,Iyer Peripherals LLP,Chennai,reliable,0,0
+27ULIPR1440S1ZW,Jain Computer Services & Co,Mumbai,slow,0,0
+19XZYFF8390U1ZO,Iyer Technologies Traders,Kolkata,slow,0,0
+29MXDCE2440X1Z9,Agarwal Technologies & Co,Bengaluru,slow,0,0
+19GGVPW6375O1ZO,Joshi Electronics Pvt Ltd,Kolkata,reliable,0,0
+36JNLPH5871D1ZN,New India Digital Traders,Hyderabad,defaulted,1,19
+24AIICG0248P1ZW,Batra Systems Private Limited,Ahmedabad,overleveraged,0,0
+07ZUQPM9847T1ZF,Kulkarni Digital Enterprises,Delhi,slow,0,0
+09HVTPT6370J1ZD,Patel Computer Services Private Limited,Lucknow,reliable,0,0
+08GKBPQ0848F1Z1,Mittal Systems Distributors,Jaipur,reliable,0,0
+07UAWPT3934U1ZQ,New India Peripherals Enterprises,Delhi,reliable,0,0
+09NATFS8956P1ZC,Desai Infotech Enterprises,Lucknow,reliable,0,0
+08HOXPE6793C1Z8,Ghosh Systems Pvt Ltd,Jaipur,slow,0,0
+36EZWPT5952B1ZN,Shah Computers Enterprises,Hyderabad,slow,0,0
+07KXYPT5031O1Z7,Pioneer Systems & Co,Delhi,defaulted,1,24
+19QAHPG2996I1ZT,Singh IT Solutions Enterprises,Kolkata,reliable,0,0
+36WMYPP6745G1ZM,Balaji Digital & Co,Hyderabad,reliable,0,0
+09YTCCB0512G1ZH,Shah Electronics Distributors,Lucknow,reliable,0,0
+08UBXPL2070Z1ZQ,Patel Digital LLP,Jaipur,reliable,1,19
+27AIKFO7805M1Z7,Desai Infotech & Co,Mumbai,reliable,0,0
+33YMBFL8639S1Z8,Galaxy Systems Private Limited,Chennai,reliable,0,0
+09DCSFM2416C1Z5,Nair Infosystems Pvt Ltd,Lucknow,reliable,0,0
+24GGXFL9682P1ZH,National Infosystems LLP,Ahmedabad,slow,0,0
+08TJJCS1654R1ZK,Jain Infosystems Pvt Ltd,Jaipur,reliable,0,0
+36EUNCZ2649A1ZX,Sai Digital Pvt Ltd,Hyderabad,slow,0,0
+07EQECS0505L1ZG,Pioneer Technologies & Co,Delhi,slow,0,0
+07GQPCO5252K1ZV,Vision Infosystems Traders,Delhi,reliable,0,0
+09JNLFY0940U1Z5,Sharma Electronics Traders,Lucknow,slow,0,0
+09XGFFM8799T1ZT,Supreme Infosystems Distributors,Lucknow,slow,0,0
+19WUNCA2043L1ZP,Supreme Digital Distributors,Kolkata,reliable,0,0
+29IJPFP3846K1ZQ,Batra Systems Enterprises,Bengaluru,reliable,0,0
+29BIAPS2435F1ZA,Iyer Systems Enterprises,Bengaluru,slow,0,0
+36MCYCQ6734M1ZX,Shah Electronics Pvt Ltd,Hyderabad,reliable,0,0
+19PZJPP0718K1ZK,Supreme Computers Distributors,Kolkata,reliable,0,0
+08GLECW3749P1ZQ,Kulkarni Computers Pvt Ltd,Jaipur,reliable,0,0
+24GXSCK2645E1Z0,Quantum Technologies Pvt Ltd,Ahmedabad,slow,0,0
+33WTIFN7199G1Z7,Shah Infosystems Enterprises,Chennai,slow,0,0
+27KNVFJ1317J1Z0,Joshi Technologies & Co,Pune,slow,0,0
+27IXPCM9709K1Z5,Reddy Computer Services Pvt Ltd,Pune,slow,0,0
+08OBYFB7944R1ZP,Apex Digital LLP,Jaipur,reliable,0,0
+24BKLPD4340D1ZO,Malhotra Infotech Distributors,Ahmedabad,reliable,0,0
+24PYNFO1772C1ZM,Saxena Electronics & Co,Ahmedabad,reliable,0,0
+09YSJPT3942K1ZE,Iyer Systems LLP,Lucknow,reliable,0,0
+24GDVCI6674D1ZT,Das Technologies & Co,Ahmedabad,slow,0,0
+19DWHPD2805H1ZN,Supreme Digital Private Limited,Kolkata,reliable,0,0
+19BISPN3996L1Z1,Bansal Systems Enterprises,Kolkata,reliable,0,0
+08WIIPO7046M1Z1,Iyer Computer Services Traders,Jaipur,slow,0,0
+07GTCFQ4564S1Z9,Galaxy Computer Services Traders,Delhi,slow,0,0
+33EJACI4544U1ZG,Malhotra Infosystems & Co,Chennai,reliable,0,0
+07WYHPQ0696Y1ZG,Bose Technologies Enterprises,Delhi,reliable,0,0
+08NHRPQ0012Z1Z0,Desai IT Solutions Private Limited,Jaipur,reliable,0,0
+29IURPX8212Y1ZN,Sai Peripherals LLP,Bengaluru,reliable,0,0
+33CIDCN2805B1ZN,Menon Infosystems Distributors,Chennai,reliable,0,0
+29IEACB8608G1Z7,Shree Ganesh Peripherals Traders,Bengaluru,reliable,0,0
+19TSMCJ4115F1Z0,Singh IT Solutions & Co,Kolkata,reliable,0,0
+07SZWCZ6535E1ZS,Laxmi Electronics LLP,Delhi,overleveraged,0,0
+08HGTCO7459O1ZO,Mittal Digital Distributors,Jaipur,reliable,0,0
+27JOEFT2706D1ZG,Galaxy Computers Traders,Pune,reliable,0,0
+07QUEPX0950M1ZP,Saxena Infosystems Traders,Delhi,reliable,0,0
+29XCKCC4227N1ZF,Sai Electronics Private Limited,Bengaluru,reliable,0,0
+29GYPFF8011X1ZR,Kulkarni Systems LLP,Bengaluru,slow,0,0
+24LBFFB3239M1Z3,Kulkarni Computers Distributors,Ahmedabad,reliable,0,0
+33DRICF9818C1ZM,Balaji IT Solutions & Co,Chennai,slow,0,0
+19HLZFJ4618H1ZV,Rao Peripherals LLP,Kolkata,slow,0,0
+07FUOPT5324G1Z5,Bharat Systems Distributors,Delhi,reliable,0,0
+09QBYPX5626C1ZI,Menon Computer Services Pvt Ltd,Lucknow,slow,0,0
+07JWOCH6720E1Z2,Pioneer Infosystems Distributors,Delhi,reliable,0,0
+09DCKPN4817G1ZA,Matrix IT Solutions LLP,Lucknow,reliable,0,0
+19WBAPN5064M1ZO,Royal Systems Traders,Kolkata,reliable,0,0
+09LDOCM3441E1ZY,Kulkarni Computer Services Private Limited,Lucknow,slow,0,0
+08AFNFZ4785Y1Z3,Shah Technologies LLP,Jaipur,reliable,0,0
+29XDHCA8347Y1ZJ,Apex Peripherals Traders,Bengaluru,reliable,0,0
+33ENHCZ1998C1Z9,Malhotra Systems Traders,Chennai,reliable,0,0
+29ZXFPL7048T1ZQ,Pillai Systems & Co,Bengaluru,reliable,0,0
+29LFYPP0867A1ZO,Menon Peripherals Traders,Bengaluru,slow,0,0
+24BGOCJ1536Y1Z8,Apex Infosystems Distributors,Ahmedabad,reliable,0,0
+09UWQFW6248Y1ZO,Balaji Infotech & Co,Lucknow,reliable,0,0
+29KEQCE6531E1ZW,New India Computers & Co,Bengaluru,reliable,0,0
+27MNNCN9367L1ZE,Laxmi Computers Enterprises,Mumbai,slow,0,0
+36MXHFS0603U1Z3,National Electronics & Co,Hyderabad,reliable,0,0
+08RYYPJ5990L1ZS,Bose Digital Traders,Jaipur,reliable,0,0
+29FXTCO1107C1Z3,Batra Computers Traders,Bengaluru,reliable,0,0
+27SVEPJ7875M1ZB,Star Peripherals Private Limited,Pune,defaulted,1,23
+19MGUFT1090V1Z7,Reddy Electronics LLP,Kolkata,overleveraged,0,0
+29XTECE2728J1ZQ,Rao Peripherals Private Limited,Bengaluru,slow,0,0
+27QAWFZ4715P1ZK,Khanna Technologies Enterprises,Pune,reliable,0,0
+33VZCPF1967U1Z8,New India IT Solutions Enterprises,Chennai,defaulted,1,22
+09OPHCE2235F1ZL,Bose Systems Distributors,Lucknow,slow,0,0
+24FVZCX9132U1ZK,Nair Peripherals Private Limited,Ahmedabad,slow,0,0
+09GUUFU5788J1ZN,National Technologies Enterprises,Lucknow,reliable,0,0
+19DKIPE3715G1Z8,Krishna Peripherals Pvt Ltd,Kolkata,reliable,0,0
+33ZEKFK2431Y1ZQ,Star Digital Pvt Ltd,Chennai,reliable,0,0
+27GHEPF9076O1ZJ,Nair Technologies & Co,Mumbai,overleveraged,1,19
+09QKGCC1619U1ZZ,Verma Technologies Traders,Lucknow,reliable,0,0
+27QNTFD1217U1ZH,Pillai Systems Pvt Ltd,Pune,reliable,0,0
+09RNNFW3951V1ZM,Verma Systems & Co,Lucknow,reliable,0,0
+19ZKJFQ6592M1Z0,Krishna Computer Services Private Limited,Kolkata,reliable,0,0
+19FIGFH6584Y1ZC,Kapoor Infotech Traders,Kolkata,reliable,0,0
+19JVWPA8412K1ZT,Mittal Electronics & Co,Kolkata,overleveraged,0,0
+33UFKCI9585L1ZY,New India Peripherals Private Limited,Chennai,slow,0,0
+33VBJPP1284D1Z9,Sharma Infosystems Traders,Chennai,slow,0,0
+07ADNPT5802C1ZJ,National Electronics Pvt Ltd,Delhi,reliable,0,0
+19EKUPG4219D1ZY,Iyer Technologies Pvt Ltd,Kolkata,slow,0,0
+08TFLPQ9097C1ZC,New India Infotech LLP,Jaipur,reliable,0,0
+24RORFB7512L1ZW,Chopra Digital Enterprises,Ahmedabad,slow,0,0
+07OMCFS9279Y1ZN,New India Computer Services & Co,Delhi,reliable,0,0
+36NLPCL2169D1ZD,Mittal Computer Services Distributors,Hyderabad,reliable,0,0
+19ECYPE4017Q1ZQ,Singh IT Solutions Distributors,Kolkata,reliable,0,0
+09MWJPU2239S1Z5,Desai Computers Traders,Lucknow,reliable,0,0
+09WKYCF3791N1Z9,Arora Digital Traders,Lucknow,reliable,0,0
+07COEFO6366K1ZZ,Chopra Digital & Co,Delhi,reliable,0,0
+27TZOCA9760I1Z4,Agarwal Infotech Pvt Ltd,Mumbai,reliable,0,0
+09AWCCN6065F1Z5,Saxena Infosystems Pvt Ltd,Lucknow,reliable,0,0
+08ORDPF8082R1ZP,Saxena Computer Services LLP,Jaipur,reliable,0,0
+19CJMPJ0184I1ZW,Verma Peripherals Pvt Ltd,Kolkata,overleveraged,0,0
+19GEBPF5751L1Z5,Batra Digital Enterprises,Kolkata,reliable,0,0
+36NYNCW7630S1ZJ,Sharma Systems Distributors,Hyderabad,reliable,0,0
+24TSBPS1834W1ZH,Desai Computers Enterprises,Ahmedabad,reliable,0,0
+09SMPPN7341C1ZC,Iyer Systems Private Limited,Lucknow,reliable,0,0
+09DLCPR8576I1ZA,Shree Ganesh Computer Services & Co,Lucknow,defaulted,1,19
+08VALPY2514Q1ZB,Star IT Solutions LLP,Jaipur,reliable,0,0
+27OHLCF4410R1ZD,Om Computers Pvt Ltd,Mumbai,slow,0,0
+29GILCK7647V1ZG,Das Electronics & Co,Bengaluru,reliable,0,0
+08CUVPI0222Z1ZK,Bose Peripherals Pvt Ltd,Jaipur,reliable,0,0
+09DUICZ1900A1ZG,Quantum IT Solutions & Co,Lucknow,reliable,0,0
+07SYZCU5040B1ZC,Shah Infotech Pvt Ltd,Delhi,overleveraged,0,0
+09LDHFW8626K1ZZ,Star Infosystems Private Limited,Lucknow,reliable,0,0
+19NRJCN3552K1ZP,Om Technologies Private Limited,Kolkata,reliable,0,0
+36BOMFD9525G1ZC,Bose Systems Traders,Hyderabad,reliable,0,0
+24NECFV5332U1Z0,National Technologies LLP,Ahmedabad,reliable,0,0
+07AJHCF9124J1ZV,Chopra Infotech Traders,Delhi,reliable,0,0
+27JYBFU5318Y1ZL,Galaxy IT Solutions Distributors,Pune,reliable,0,0
+19LUACH6562D1Z7,Mehta Computer Services Distributors,Kolkata,reliable,0,0
+27GZKPL0482W1Z6,Shree Ganesh Technologies & Co,Pune,slow,0,0
+33BDTFP5657O1Z4,Bansal Systems & Co,Chennai,overleveraged,0,0
+08VHPCG1660Y1ZH,Pillai Computers Private Limited,Jaipur,reliable,0,0
+27NNHCB6629J1Z8,Krishna Electronics Pvt Ltd,Mumbai,reliable,0,0
+33LIWCM7708X1ZB,Star Computer Services Traders,Chennai,reliable,0,0
+29TKICO8983W1ZN,Arora Digital & Co,Bengaluru,slow,0,0
+29TKWFD8505I1ZO,Balaji Computer Services Distributors,Bengaluru,reliable,0,0
+24SGHFI3881G1ZI,Rao Computers Private Limited,Ahmedabad,slow,0,0
+09BSLPS5386Z1ZW,Supreme Peripherals LLP,Lucknow,slow,0,0
+07PQYFL7545P1ZS,Star Infosystems Distributors,Delhi,slow,0,0
+24SIFPC4948X1ZZ,Pioneer Systems Enterprises,Ahmedabad,reliable,0,0
+24QBXCY7294Z1ZU,Gupta Electronics Traders,Ahmedabad,overleveraged,1,22
+24VCKFA1807T1ZF,Pioneer Digital Distributors,Ahmedabad,reliable,0,0
+33KTCCG3973Z1Z9,Quantum Electronics Pvt Ltd,Chennai,reliable,0,0
+29TLCPF8682V1ZF,Laxmi Systems Pvt Ltd,Bengaluru,reliable,0,0
+19WSVCC3008A1Z7,Sharma Electronics Distributors,Kolkata,reliable,0,0
+27ANXPK1501O1ZI,Balaji Infosystems & Co,Pune,slow,0,0
+08KBJFN2648M1ZF,New India Infotech Traders,Jaipur,slow,0,0
+27LSZPC2375L1ZR,Sethi IT Solutions Pvt Ltd,Pune,reliable,0,0
+19BWPFT8443J1Z3,Chopra Peripherals Pvt Ltd,Kolkata,defaulted,1,22
+27PFUPT4678X1Z4,Rao IT Solutions Enterprises,Mumbai,reliable,0,0
+33XMJCK2367Z1Z5,Das Computers & Co,Chennai,reliable,0,0
+27XYSCB0555R1ZW,Laxmi Electronics Private Limited,Mumbai,reliable,0,0
+27ERKFR7561J1ZJ,Quantum Electronics Enterprises,Mumbai,overleveraged,1,22
+07WPTFI6573Q1ZR,Agarwal Technologies LLP,Delhi,reliable,0,0
+24WORCC3987P1Z9,Vision IT Solutions Distributors,Ahmedabad,reliable,0,0
+19ASJFG3682I1ZY,Ghosh Infosystems Distributors,Kolkata,reliable,0,0
+29CFICV8554J1Z7,National Infotech Distributors,Bengaluru,defaulted,1,24
+08OQFPV6785M1ZD,Shree Ganesh IT Solutions Distributors,Jaipur,overleveraged,0,0
+08RYBFU6423W1ZH,Agarwal IT Solutions Distributors,Jaipur,slow,0,0
+27OZFFE3983O1ZZ,Gupta Infotech Distributors,Pune,overleveraged,1,24
+08QQQFR5266A1ZO,Bansal Digital & Co,Jaipur,overleveraged,0,0
+08XJBPL1729Q1Z6,Bansal Computers & Co,Jaipur,reliable,0,0
+24AGGCM8729A1ZA,Pillai Digital Distributors,Ahmedabad,reliable,0,0
+19CZJCR5575Q1ZT,Mehta Technologies Enterprises,Kolkata,slow,0,0
+27BSFFA6019L1ZB,Malhotra Infosystems LLP,Mumbai,slow,0,0
+19VHTPM0887J1ZW,Shree Ganesh Infosystems Pvt Ltd,Kolkata,reliable,0,0
+07RBJCX9211V1ZR,Krishna Infotech Traders,Delhi,reliable,0,0
+36JWXPJ2283P1ZA,Laxmi Computer Services Distributors,Hyderabad,slow,0,0
+27XOQPN1848L1ZL,Saxena Technologies Traders,Pune,reliable,0,0
+09GHVPI7294X1ZF,Menon Infotech Distributors,Lucknow,overleveraged,0,0
+08KKOFC7626F1ZD,Supreme Computer Services Private Limited,Jaipur,reliable,0,0
+19HPOFH3986M1ZC,Menon Systems & Co,Kolkata,reliable,0,0
+19DCPFH7836T1ZV,Saxena Infosystems Private Limited,Kolkata,slow,0,0
+07MWECU8196O1ZT,Matrix Infotech Distributors,Delhi,reliable,0,0
+36MNXCF3523E1ZE,Pillai Peripherals Pvt Ltd,Hyderabad,reliable,0,0
+29KAKFN5122X1ZZ,Desai IT Solutions Distributors,Bengaluru,reliable,0,0
+19XXAPH1978O1Z9,Reddy Systems & Co,Kolkata,overleveraged,1,19
+36VNECT8608J1ZN,National Electronics LLP,Hyderabad,reliable,0,0
+27KUXPN6984N1ZW,Mehta IT Solutions Distributors,Mumbai,reliable,0,0
+29RBVPZ2842E1ZG,Desai Technologies Pvt Ltd,Bengaluru,slow,0,0
+36UCCFF3514I1Z0,Shah Technologies Pvt Ltd,Hyderabad,defaulted,1,21
+33VWCFN6267W1ZK,Star Infotech Distributors,Chennai,reliable,0,0
+07IOTPE9035E1ZK,Goyal Infotech Enterprises,Delhi,reliable,0,0
+33TPGFC9233T1ZH,Pillai IT Solutions Private Limited,Chennai,reliable,0,0
+19TDFPL5466M1ZE,Laxmi Infosystems & Co,Kolkata,reliable,0,0
+29TGTCJ5878X1ZS,Bose IT Solutions & Co,Bengaluru,reliable,0,0
+29INTCY4635R1Z0,Kapoor Infosystems LLP,Bengaluru,slow,0,0
+36VDVFQ5569H1ZN,Patel Technologies LLP,Hyderabad,reliable,0,0
+33HDKCN5370A1ZE,Pioneer Infotech Pvt Ltd,Chennai,reliable,0,0
+29MYKCS1268F1ZF,Verma Technologies Pvt Ltd,Bengaluru,slow,0,0
+27YHDFZ4822J1ZT,Shah Systems & Co,Pune,reliable,0,0
+36DLICV2441G1ZN,Kulkarni Computers Enterprises,Hyderabad,reliable,0,0
+09BEPCR4117P1ZE,Shah Digital Enterprises,Lucknow,slow,0,0
+09TISCX2446R1Z6,Sai Peripherals & Co,Lucknow,slow,0,0
+29DCUCD4685X1ZQ,Shree Ganesh Infosystems Distributors,Bengaluru,slow,0,0
+24TPCCY5429I1ZS,Bharat Computer Services Pvt Ltd,Ahmedabad,reliable,0,0
+33NKVCR6800S1ZK,Goyal Computer Services Distributors,Chennai,reliable,0,0
+19ZOYCF6104P1Z8,Bansal Technologies Pvt Ltd,Kolkata,overleveraged,0,0
+24VQPFG2807T1Z9,Galaxy Electronics Enterprises,Ahmedabad,reliable,0,0
+19IXMPL6981N1Z5,Galaxy Infotech LLP,Kolkata,reliable,0,0
+27OEIFD3894G1ZJ,Saxena Technologies Pvt Ltd,Pune,reliable,0,0
+27XAHCP6355X1ZK,Royal Peripherals Enterprises,Mumbai,slow,0,0
+24CVQCU6073P1Z7,Singh Infosystems & Co,Ahmedabad,defaulted,1,23
+33WIJCL9139K1ZZ,Shah Infotech Private Limited,Chennai,reliable,0,0
+07CWAPR3374A1ZQ,Krishna IT Solutions Traders,Delhi,overleveraged,1,22
+36MLTFU9190K1Z5,Kapoor Computer Services Private Limited,Hyderabad,reliable,0,0
+29YSTCQ0598R1ZC,Verma Computers Pvt Ltd,Bengaluru,reliable,0,0
+29ALMFD1594T1ZQ,Royal IT Solutions Enterprises,Bengaluru,slow,0,0
+29FHOCD6242R1Z7,Jain Computers Enterprises,Bengaluru,reliable,0,0
+07AHPCM9960B1ZQ,New India Electronics LLP,Delhi,reliable,0,0
+27DKEFI0462B1Z8,Kapoor Systems Traders,Mumbai,reliable,0,0
+09CPBPG0961B1ZD,Reddy Electronics Traders,Lucknow,defaulted,1,24
+36WTJPA0371N1Z1,Arora Electronics Pvt Ltd,Hyderabad,reliable,0,0
+36PAGFM6999F1ZA,Malhotra Infotech Private Limited,Hyderabad,overleveraged,1,19
+29YWKCA2334B1Z4,Galaxy Digital & Co,Bengaluru,slow,0,0
+09WTGFP0129V1ZV,Saxena Digital Private Limited,Lucknow,reliable,0,0
+19RMFCQ3461M1ZS,Balaji Infosystems Distributors,Kolkata,slow,0,0
+33GJSCR8982Y1ZX,Quantum Infotech Private Limited,Chennai,reliable,0,0
+08HYMPA2759U1ZC,Desai IT Solutions LLP,Jaipur,reliable,0,0
+27AMVFB2280M1Z6,Om Infotech Pvt Ltd,Mumbai,slow,0,0
+24MKNCI9541C1ZM,Pillai Infosystems Private Limited,Ahmedabad,slow,0,0
+27DLMFQ7204S1ZP,Bose Electronics Pvt Ltd,Mumbai,reliable,0,0
+19LGWPC7186I1ZB,Quantum Technologies LLP,Kolkata,reliable,0,0
+36OUQFH4855B1ZQ,Krishna Computer Services & Co,Hyderabad,slow,1,19
+08WYKCW8873N1Z7,Pillai Digital Private Limited,Jaipur,overleveraged,1,20
+29WUHPN1876I1ZH,Chopra IT Solutions & Co,Bengaluru,slow,0,0
+29NDXCA3289F1ZH,Rao Infosystems Pvt Ltd,Bengaluru,reliable,0,0
+24DIRCP6940I1ZE,Saxena Infosystems Enterprises,Ahmedabad,reliable,0,0
+08NSLFA6585X1ZQ,Sharma Computers LLP,Jaipur,reliable,0,0
+36YNLCG8790D1ZS,Bharat IT Solutions Distributors,Hyderabad,slow,0,0
+07WBNPL5234M1ZM,Om Technologies Enterprises,Delhi,overleveraged,0,0
+27BMHFG4350Q1Z7,Pillai IT Solutions & Co,Mumbai,reliable,0,0
+29WWRPL8216S1ZP,Kulkarni Digital Pvt Ltd,Bengaluru,reliable,0,0
+36PIGPE0470B1ZI,Ghosh Electronics Enterprises,Hyderabad,reliable,0,0
+09VOQCA0350E1ZH,Laxmi Electronics Enterprises,Lucknow,slow,0,0
+33TCUCQ3892H1Z6,Rao Infotech Traders,Chennai,slow,0,0
+29UVLPE9321H1ZT,Pillai Digital & Co,Bengaluru,reliable,0,0
+36MHPPA9568W1ZN,Balaji Infotech Enterprises,Hyderabad,reliable,0,0
+09KAPFZ7181A1ZG,Das Computer Services & Co,Lucknow,reliable,0,0
+27ZLXPT9164P1ZV,Shah Computer Services Private Limited,Pune,reliable,0,0
+08UNZFR1085Y1ZB,Patel IT Solutions LLP,Jaipur,slow,0,0
+27PVECH3414X1ZA,Sethi Infotech Enterprises,Mumbai,reliable,0,0
+27LWQFH3440D1ZX,Patel Infotech Traders,Mumbai,reliable,0,0
+09NBXPE2933Z1ZY,Kulkarni Peripherals Enterprises,Lucknow,overleveraged,0,0
+08PKDPK2566S1Z2,Ghosh Infotech LLP,Jaipur,reliable,0,0
+19UZKCM7458U1Z5,Rao Computer Services Distributors,Kolkata,reliable,0,0
+33TWIPG4383R1ZF,National IT Solutions Distributors,Chennai,reliable,0,0
+27GPFCF3568R1ZT,Desai Computers Private Limited,Pune,reliable,0,0
+29HZNFG2775S1ZO,Reddy Infosystems LLP,Bengaluru,reliable,0,0
+24PUKFP3046B1Z3,Galaxy Computer Services & Co,Ahmedabad,reliable,0,0
+33HJGFH2470L1ZN,Agarwal Digital Traders,Chennai,reliable,0,0
+27KRWFB2207F1Z9,Desai Computers Distributors,Pune,reliable,0,0
+08THAFY7906U1Z9,Arora Infosystems Enterprises,Jaipur,reliable,0,0
+07MCEPC5946J1Z7,National Technologies Traders,Delhi,slow,0,0
+27MABFT8833C1ZV,Malhotra IT Solutions Pvt Ltd,Pune,reliable,0,0
+29WETPZ5780T1Z1,Pioneer Peripherals Traders,Bengaluru,reliable,0,0
+24SVUPW9618P1ZP,Vision Computers & Co,Ahmedabad,reliable,0,0
+36GMSPU7940L1ZT,Star Computer Services Private Limited,Hyderabad,overleveraged,0,0
+27TIPCW0848T1Z6,Bansal Infosystems Distributors,Pune,overleveraged,0,0
+29EDZFI4038C1ZR,Sharma Computer Services Private Limited,Bengaluru,reliable,0,0
+27JYKPR8178M1Z2,Batra Digital Distributors,Pune,reliable,0,0
+19YKFFN6881Y1ZK,Joshi Infosystems Private Limited,Kolkata,reliable,0,0
+27MUQFA2734D1Z4,Shree Ganesh IT Solutions Enterprises,Mumbai,reliable,0,0
+07YGUPO8405D1ZG,Balaji Digital Enterprises,Delhi,reliable,0,0
+08KQCFO0310O1Z7,Vision Digital Traders,Jaipur,reliable,0,0
+24MHHCL7124R1ZA,Balaji Technologies & Co,Ahmedabad,reliable,0,0
+36BYXFJ7323Q1ZY,Shree Ganesh Electronics Enterprises,Hyderabad,reliable,0,0
+27FJUCL6721S1ZQ,Ghosh Digital Private Limited,Pune,reliable,0,0
+27HOACE6201R1ZG,Quantum IT Solutions LLP,Pune,reliable,0,0
+27YDAPK3569S1Z6,Singh Electronics Private Limited,Mumbai,slow,0,0
+36MNSFV9246Y1ZC,Reddy Infosystems Enterprises,Hyderabad,reliable,0,0
+27NCJFR0968V1ZL,Galaxy Peripherals Private Limited,Mumbai,overleveraged,0,0
+27XOKFU4305M1ZD,Kapoor Technologies & Co,Mumbai,reliable,0,0
+36NUPCN7032A1Z3,Mehta Computer Services Enterprises,Hyderabad,slow,0,0
+29VEIFV1778F1ZX,Jain Computer Services Private Limited,Bengaluru,overleveraged,0,0
+27SCBCP2017Z1Z4,Batra Computer Services Traders,Pune,defaulted,1,21
+33LBDFY5729D1ZV,Sai Computers Private Limited,Chennai,slow,0,0
+09PLBFF2342A1Z1,Shree Ganesh Systems Pvt Ltd,Lucknow,slow,0,0
+07ABCDE1234F1Z5,Sharma Electronics Pvt Ltd,Delhi,story,0,0
